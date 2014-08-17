@@ -1,0 +1,38 @@
+<ion-view  title="{{data.title}}">
+    <ion-nav-buttons side="left">
+        <button menu-toggle="left"class="button button-icon icon ion-navicon"></button>
+    </ion-nav-buttons>
+    <ion-content class="has-header">
+        <div class="list card">
+
+            <div class="item item-avatar">
+                <img src="images/spengler.jpg">
+                <h2>{{data.title}}</h2>
+                <p>{{data.description}}</p>
+            </div>
+
+            <div class="item item-image">
+                <img src="{{data.image_url}}">
+            </div>
+
+            <div class="item tabs tabs-secondary tabs-icon-left">
+                <span class="tab-item">
+                    价格：{{data.current_price}}
+                </span>
+                <span class="tab-item">
+                    地区：{{data.city}}
+                </span>
+                <span class="tab-item">
+                    <i class="icon ion-share"></i>
+                    分享
+                </span>
+            </div>
+        </div>
+
+        <div class="f_action">
+            <button class="button button-block button-energized" ng-click="showAlert()">
+                立即购买
+            </button>
+        </div>
+    </ion-content>
+</ion-view>

@@ -1,0 +1,41 @@
+<ion-side-menus>
+
+  <ion-pane ion-side-menu-content>
+    <ion-nav-bar class="bar bar-header bar-balanced nav-title-slide-ios7">
+      <ion-nav-back-button class="button-clear"><i class="icon ion-ios7-arrow-back"></i> Back</ion-nav-back-button>
+    </ion-nav-bar>
+    <ion-nav-view name="menuContent" animation="slide-left-right"></ion-nav-view>
+  </ion-pane>
+
+  <ion-side-menu side="left">
+    <header class="bar bar-header bar-stable bar-dark">
+      <h1 class="title">菜单</h1>
+    </header>
+    <ion-content class="has-header list">
+      <ion-list>
+          <ion-item class="item item-icon-left" nav-clear menu-close href="#/app/index">
+              <i class="icon ion-home"></i>首页
+          </ion-item>
+          <ion-item class="item item-icon-left" nav-clear menu-close href="#/app/groupon">
+              <i class="icon ion-coffee"></i>附近团购
+          </ion-item>
+          <!--<ion-item class="item item-icon-left" nav-clear menu-close href="#/app/film">-->
+              <!--<i class="icon ion-film-marker"></i>热播电影-->
+          <!--</ion-item>-->
+          <!--<ion-item class="item item-icon-left" nav-clear menu-close href="#/app/search">-->
+              <!--<i class="icon ion-ios7-search-strong"></i>搜索位置-->
+          <!--</ion-item>-->
+          <ion-item class="item item-divider
+          </ico-item>" nav-clear menu-close>
+          </ion-item>
+
+          <ion-item class="item item-icon-left" nav-clear menu-close ng-click="login()">
+              <i class="icon ion-person"></i>{{loginData.username || '登录'}}
+          </ion-item>
+          <!--<ion-item class="item item-icon-left" nav-clear menu-close ng-click="signup()">-->
+              <!--<i class="icon ion-person-add"></i>注册-->
+          <!--</ion-item>-->
+      </ion-list>
+    </ion-content>
+  </ion-side-menu>
+</ion-side-menus>

@@ -1,0 +1,872 @@
+{"status": "OK", "total_count": 2793, "count": 20, "deals": [
+    {
+        "deal_id": "10-6384611",
+        "title": "姐妹缘小东北饺子家常菜羊腿海鲜大排档代金券",
+        "description": "姐妹缘小东北饺子家常菜羊腿海鲜大排档 仅售85元，价值100元代金券，无需预约，可累计使用，提供免费wifi ，交通便利！",
+        "city": "天津",
+        "list_price": 100,
+        "current_price": 85,
+        "regions": ["河西区"],
+        "categories": ["小吃快餐", "海鲜"],
+        "purchase_count": 4,
+        "purchase_deadline": "2014-11-01",
+        "publish_date": "2014-08-04",
+        "distance": 6,
+        "image_url": "http://t2.dpfile.com/pc/mc/ccbe9faacd403a23e4b0e1b02de428a1(640x1024)/thumb.jpg",
+        "s_image_url": "http://t3.dpfile.com/pc/mc/ccbe9faacd403a23e4b0e1b02de428a1(640x1024)/thumb_1.jpg",
+        "deal_url": "http://dpurl.cn/p/ahZyDWJqIK",
+        "deal_h5_url": "http://lite.m.dianping.com/nte14PP8fL",
+        "commission_ratio": 0.03,
+        "businesses": [
+            {
+                "name": "姐妹缘小东北饺子家常菜羊腿海鲜大排档",
+                "id": 13702900,
+                "city": "天津",
+                "latitude": 39.084187,
+                "longitude": 117.20104,
+                "url": "http://dpurl.cn/p/Gy+fw-S1HV",
+                "h5_url": "http://lite.m.dianping.com/GuXs6bdAKE"
+            }
+        ]
+    },
+    {
+        "deal_id": "10-2258609",
+        "title": "凯德龙园10人套餐",
+        "description": "凯德龙园 仅售618元，价值1221元10人套餐，免费wifi，免费提供15个停车位！精致舒适环境，甄选优质原料！美味停不了，舌尖尝真滋味！",
+        "city": "天津",
+        "list_price": 1221,
+        "current_price": 618,
+        "regions": ["河西区"],
+        "categories": ["粤菜"],
+        "purchase_count": 13,
+        "purchase_deadline": "2014-11-30",
+        "publish_date": "2014-04-03",
+        "distance": 307,
+        "image_url": "http://t1.dpfile.com/pc/mc/98323aa4f3df55a423aebd02b4ec0d86(450x1024)/thumb.jpg",
+        "s_image_url": "http://t2.dpfile.com/pc/mc/98323aa4f3df55a423aebd02b4ec0d86(450x1024)/thumb_1.jpg",
+        "deal_url": "http://dpurl.cn/p/h8E01ZQT5q",
+        "deal_h5_url": "http://lite.m.dianping.com/ySsfji2TnM",
+        "commission_ratio": 0.03,
+        "businesses": [
+            {
+                "name": "凯德龙园",
+                "id": 535538,
+                "city": "天津",
+                "latitude": 39.08443,
+                "longitude": 117.19744,
+                "url": "http://dpurl.cn/p/KmO88xqOYR",
+                "h5_url": "http://lite.m.dianping.com/cQz5HgeB0c"
+            }
+        ]
+    },
+    {
+        "deal_id": "10-2258653",
+        "title": "凯德龙园10人豪华套餐",
+        "description": "凯德龙园 仅售895元，价值1789元10人豪华套餐，免费wifi，免费提供15个停车位！精致舒适环境，甄选优质原料！美味停不了，舌尖尝真滋味！",
+        "city": "天津",
+        "list_price": 1789,
+        "current_price": 895,
+        "regions": ["河西区"],
+        "categories": ["粤菜"],
+        "purchase_count": 13,
+        "purchase_deadline": "2014-11-30",
+        "publish_date": "2014-04-03",
+        "distance": 307,
+        "image_url": "http://t2.dpfile.com/pc/mc/d7401895a65e904849acfdd429274ee7(450x1024)/thumb.jpg",
+        "s_image_url": "http://t1.dpfile.com/pc/mc/d7401895a65e904849acfdd429274ee7(450x1024)/thumb_1.jpg",
+        "deal_url": "http://dpurl.cn/p/jI28PamLdz",
+        "deal_h5_url": "http://lite.m.dianping.com/P-k9IxGukz",
+        "commission_ratio": 0.03,
+        "businesses": [
+            {
+                "name": "凯德龙园",
+                "id": 535538,
+                "city": "天津",
+                "latitude": 39.08443,
+                "longitude": 117.19744,
+                "url": "http://dpurl.cn/p/KmO88xqOYR",
+                "h5_url": "http://lite.m.dianping.com/cQz5HgeB0c"
+            }
+        ]
+    },
+    {
+        "deal_id": "10-2258624",
+        "title": "凯德龙园10人辽参席",
+        "description": "凯德龙园 仅售1418元，价值2821元10人辽参席，免费wifi，免费提供15个停车位！精致舒适环境，甄选优质原料！美味停不了，舌尖尝真滋味！",
+        "city": "天津",
+        "list_price": 2821,
+        "current_price": 1418,
+        "regions": ["河西区"],
+        "categories": ["粤菜"],
+        "purchase_count": 6,
+        "purchase_deadline": "2014-11-30",
+        "publish_date": "2014-04-03",
+        "distance": 307,
+        "image_url": "http://t3.dpfile.com/pc/mc/73b02a067bb3c1351748efec41776b26(450x1024)/thumb.jpg",
+        "s_image_url": "http://t3.dpfile.com/pc/mc/73b02a067bb3c1351748efec41776b26(450x1024)/thumb_1.jpg",
+        "deal_url": "http://dpurl.cn/p/JGxik4WN3L",
+        "deal_h5_url": "http://lite.m.dianping.com/MV4vMKTSMA",
+        "commission_ratio": 0.03,
+        "businesses": [
+            {
+                "name": "凯德龙园",
+                "id": 535538,
+                "city": "天津",
+                "latitude": 39.08443,
+                "longitude": 117.19744,
+                "url": "http://dpurl.cn/p/KmO88xqOYR",
+                "h5_url": "http://lite.m.dianping.com/cQz5HgeB0c"
+            }
+        ]
+    },
+    {
+        "deal_id": "10-5058074",
+        "title": "凯德龙园飘香双人套餐",
+        "description": "凯德龙园 仅售96元，价值192元飘香双人套餐，甄选精致食材，精湛厨艺，醇香在唇齿间回荡，沁入心底久久难忘！",
+        "city": "天津",
+        "list_price": 192,
+        "current_price": 96,
+        "regions": ["河西区"],
+        "categories": ["粤菜"],
+        "purchase_count": 60,
+        "purchase_deadline": "2014-11-29",
+        "publish_date": "2013-09-28",
+        "distance": 307,
+        "image_url": "http://t2.dpfile.com/pc/mc/621c5d8ae4dd4026f683167bb7db7102(450c280)/thumb.jpg",
+        "s_image_url": "http://t1.dpfile.com/pc/mc/621c5d8ae4dd4026f683167bb7db7102(450c280)/thumb_1.jpg",
+        "deal_url": "http://dpurl.cn/p/a5tdhSvpqy",
+        "deal_h5_url": "http://lite.m.dianping.com/QBO-eZYadB",
+        "commission_ratio": 0.03,
+        "businesses": [
+            {
+                "name": "凯德龙园",
+                "id": 535538,
+                "city": "天津",
+                "latitude": 39.08443,
+                "longitude": 117.19744,
+                "url": "http://dpurl.cn/p/KmO88xqOYR",
+                "h5_url": "http://lite.m.dianping.com/cQz5HgeB0c"
+            }
+        ]
+    },
+    {
+        "deal_id": "10-2258581",
+        "title": "凯德龙园4人豪华套餐",
+        "description": "凯德龙园 仅售178元，价值356元4人豪华套餐，免费wifi，免费提供15个停车位！精致舒适环境，甄选优质原料！美味停不了，舌尖尝真滋味！",
+        "city": "天津",
+        "list_price": 356,
+        "current_price": 178,
+        "regions": ["河西区"],
+        "categories": ["粤菜"],
+        "purchase_count": 10,
+        "purchase_deadline": "2014-11-30",
+        "publish_date": "2014-04-03",
+        "distance": 307,
+        "image_url": "http://t3.dpfile.com/pc/mc/42995d7867bd49507e47e2273f38eab0(450x1024)/thumb.jpg",
+        "s_image_url": "http://t2.dpfile.com/pc/mc/42995d7867bd49507e47e2273f38eab0(450x1024)/thumb_1.jpg",
+        "deal_url": "http://dpurl.cn/p/sE22KVaqU3",
+        "deal_h5_url": "http://lite.m.dianping.com/oLb6BjvX70",
+        "commission_ratio": 0.03,
+        "businesses": [
+            {
+                "name": "凯德龙园",
+                "id": 535538,
+                "city": "天津",
+                "latitude": 39.08443,
+                "longitude": 117.19744,
+                "url": "http://dpurl.cn/p/KmO88xqOYR",
+                "h5_url": "http://lite.m.dianping.com/cQz5HgeB0c"
+            }
+        ]
+    },
+    {
+        "deal_id": "10-2258584",
+        "title": "凯德龙园6人豪华套餐",
+        "description": "凯德龙园 仅售286元，价值572元6人豪华套餐，免费wifi，免费提供15个停车位！精致舒适环境，甄选优质原料！美味停不了，舌尖尝真滋味！",
+        "city": "天津",
+        "list_price": 572,
+        "current_price": 286,
+        "regions": ["河西区"],
+        "categories": ["粤菜"],
+        "purchase_count": 21,
+        "purchase_deadline": "2014-11-30",
+        "publish_date": "2014-04-03",
+        "distance": 307,
+        "image_url": "http://t1.dpfile.com/pc/mc/fd6a9775e7852172868020f3b593bf72(450x1024)/thumb.jpg",
+        "s_image_url": "http://t2.dpfile.com/pc/mc/fd6a9775e7852172868020f3b593bf72(450x1024)/thumb_1.jpg",
+        "deal_url": "http://dpurl.cn/p/vrjTO+ff5d",
+        "deal_h5_url": "http://lite.m.dianping.com/sN3GWY+oJw",
+        "commission_ratio": 0.03,
+        "businesses": [
+            {
+                "name": "凯德龙园",
+                "id": 535538,
+                "city": "天津",
+                "latitude": 39.08443,
+                "longitude": 117.19744,
+                "url": "http://dpurl.cn/p/KmO88xqOYR",
+                "h5_url": "http://lite.m.dianping.com/cQz5HgeB0c"
+            }
+        ]
+    },
+    {
+        "deal_id": "10-2258588",
+        "title": "凯德龙园8人豪华套餐",
+        "description": "凯德龙园 仅售451元，价值902元8人豪华套餐，免费wifi，免费提供15个停车位！精致舒适环境，甄选优质原料！美味停不了，舌尖尝真滋味！",
+        "city": "天津",
+        "list_price": 902,
+        "current_price": 451,
+        "regions": ["河西区"],
+        "categories": ["粤菜"],
+        "purchase_count": 15,
+        "purchase_deadline": "2014-11-30",
+        "publish_date": "2014-04-03",
+        "distance": 307,
+        "image_url": "http://t1.dpfile.com/pc/mc/2b6efdec08eacdecda89035e733f945a(450x1024)/thumb.jpg",
+        "s_image_url": "http://t2.dpfile.com/pc/mc/2b6efdec08eacdecda89035e733f945a(450x1024)/thumb_1.jpg",
+        "deal_url": "http://dpurl.cn/p/FbUOf3YDw0",
+        "deal_h5_url": "http://lite.m.dianping.com/Yq0gj6Gh9w",
+        "commission_ratio": 0.03,
+        "businesses": [
+            {
+                "name": "凯德龙园",
+                "id": 535538,
+                "city": "天津",
+                "latitude": 39.08443,
+                "longitude": 117.19744,
+                "url": "http://dpurl.cn/p/KmO88xqOYR",
+                "h5_url": "http://lite.m.dianping.com/cQz5HgeB0c"
+            }
+        ]
+    },
+    {
+        "deal_id": "10-5058073",
+        "title": "凯德龙园港式双人套餐",
+        "description": "凯德龙园 仅售96元，价值192元港式双人套餐，一席佳肴情谊浓，悠悠自在欢乐畅享，久久难忘好滋味！",
+        "city": "天津",
+        "list_price": 192,
+        "current_price": 96,
+        "regions": ["河西区"],
+        "categories": ["粤菜"],
+        "purchase_count": 37,
+        "purchase_deadline": "2014-11-29",
+        "publish_date": "2013-09-28",
+        "distance": 307,
+        "image_url": "http://t2.dpfile.com/pc/mc/621c5d8ae4dd4026f683167bb7db7102(450c280)/thumb.jpg",
+        "s_image_url": "http://t1.dpfile.com/pc/mc/621c5d8ae4dd4026f683167bb7db7102(450c280)/thumb_1.jpg",
+        "deal_url": "http://dpurl.cn/p/x4l7zDJfV6",
+        "deal_h5_url": "http://lite.m.dianping.com/cH8JtzUxNL",
+        "commission_ratio": 0.03,
+        "businesses": [
+            {
+                "name": "凯德龙园",
+                "id": 535538,
+                "city": "天津",
+                "latitude": 39.08443,
+                "longitude": 117.19744,
+                "url": "http://dpurl.cn/p/KmO88xqOYR",
+                "h5_url": "http://lite.m.dianping.com/cQz5HgeB0c"
+            }
+        ]
+    },
+    {
+        "deal_id": "10-6144589",
+        "title": "庄妈妈美食园8-10人餐",
+        "description": "庄妈妈美食园 仅售498元，价值1115元8 10人餐，缤纷呈菜品，美味更多样，欢聚畅享乐无穷！",
+        "city": "天津",
+        "list_price": 1115,
+        "current_price": 498,
+        "regions": ["和平区", "河西区"],
+        "categories": ["川菜", "天津菜"],
+        "purchase_count": 11,
+        "purchase_deadline": "2014-08-26",
+        "publish_date": "2014-05-29",
+        "distance": 362,
+        "image_url": "http://t2.dpfile.com/pc/mc/570edd7eeb6f805da1b605725b8038c0(640x1024)/thumb.jpg",
+        "s_image_url": "http://t3.dpfile.com/pc/mc/570edd7eeb6f805da1b605725b8038c0(640x1024)/thumb_1.jpg",
+        "deal_url": "http://dpurl.cn/p/JZ7q1zOGhO",
+        "deal_h5_url": "http://lite.m.dianping.com/CYenGGjDry",
+        "commission_ratio": 0.03,
+        "businesses": [
+            {
+                "name": "庄妈妈美食园",
+                "id": 535313,
+                "city": "天津",
+                "latitude": 39.11966,
+                "longitude": 117.20967,
+                "url": "http://dpurl.cn/p/QPcD1r-3Fm",
+                "h5_url": "http://lite.m.dianping.com/+0LtQCFr-a"
+            },
+            {
+                "name": "庄妈妈美食园(宾馆南道店)",
+                "id": 6294420,
+                "city": "天津",
+                "latitude": 39.080936,
+                "longitude": 117.20161,
+                "url": "http://dpurl.cn/p/IKdAAQbx8a",
+                "h5_url": "http://lite.m.dianping.com/3tYpQr2vBT"
+            }
+        ]
+    },
+    {
+        "deal_id": "10-6143307",
+        "title": "庄妈妈美食园4-6人套餐",
+        "description": "庄妈妈美食园 仅售158元，价值300元4 6人套餐，地道口感，唇齿留香，生活多美好，一口就知道！",
+        "city": "天津",
+        "list_price": 300,
+        "current_price": 158,
+        "regions": ["和平区", "河西区"],
+        "categories": ["川菜", "天津菜"],
+        "purchase_count": 6,
+        "purchase_deadline": "2014-08-26",
+        "publish_date": "2014-05-29",
+        "distance": 362,
+        "image_url": "http://t2.dpfile.com/pc/mc/178525093afb63e6b1da7d866f73669a(640x1024)/thumb.jpg",
+        "s_image_url": "http://t2.dpfile.com/pc/mc/178525093afb63e6b1da7d866f73669a(640x1024)/thumb_1.jpg",
+        "deal_url": "http://dpurl.cn/p/J8CfPv9n5g",
+        "deal_h5_url": "http://lite.m.dianping.com/y4-kwII+MZ",
+        "commission_ratio": 0.03,
+        "businesses": [
+            {
+                "name": "庄妈妈美食园",
+                "id": 535313,
+                "city": "天津",
+                "latitude": 39.11966,
+                "longitude": 117.20967,
+                "url": "http://dpurl.cn/p/QPcD1r-3Fm",
+                "h5_url": "http://lite.m.dianping.com/+0LtQCFr-a"
+            },
+            {
+                "name": "庄妈妈美食园(宾馆南道店)",
+                "id": 6294420,
+                "city": "天津",
+                "latitude": 39.080936,
+                "longitude": 117.20161,
+                "url": "http://dpurl.cn/p/IKdAAQbx8a",
+                "h5_url": "http://lite.m.dianping.com/3tYpQr2vBT"
+            }
+        ]
+    },
+    {
+        "deal_id": "10-6144171",
+        "title": "庄妈妈美食园代金券",
+        "description": "庄妈妈美食园 仅售79元，价值100元代金券，可累积使用！斟酌选料，用心制作！品珍馐美食，享精致佳肴！",
+        "city": "天津",
+        "list_price": 100,
+        "current_price": 79,
+        "regions": ["和平区", "河西区"],
+        "categories": ["川菜", "天津菜"],
+        "purchase_count": 147,
+        "purchase_deadline": "2014-08-26",
+        "publish_date": "2014-05-29",
+        "distance": 362,
+        "image_url": "http://t2.dpfile.com/pc/mc/11a227ebb8d152df8f57335000d4b81e(640x1024)/thumb.jpg",
+        "s_image_url": "http://t1.dpfile.com/pc/mc/11a227ebb8d152df8f57335000d4b81e(640x1024)/thumb_1.jpg",
+        "deal_url": "http://dpurl.cn/p/pAWfV9TDcS",
+        "deal_h5_url": "http://lite.m.dianping.com/oBdbsBiQTi",
+        "commission_ratio": 0.03,
+        "businesses": [
+            {
+                "name": "庄妈妈美食园",
+                "id": 535313,
+                "city": "天津",
+                "latitude": 39.11966,
+                "longitude": 117.20967,
+                "url": "http://dpurl.cn/p/QPcD1r-3Fm",
+                "h5_url": "http://lite.m.dianping.com/+0LtQCFr-a"
+            },
+            {
+                "name": "庄妈妈美食园(宾馆南道店)",
+                "id": 6294420,
+                "city": "天津",
+                "latitude": 39.080936,
+                "longitude": 117.20161,
+                "url": "http://dpurl.cn/p/IKdAAQbx8a",
+                "h5_url": "http://lite.m.dianping.com/3tYpQr2vBT"
+            }
+        ]
+    },
+    {
+        "deal_id": "10-2042164",
+        "title": "鹏聚楼大酒店6-8人餐",
+        "description": "鹏聚楼大酒店 仅售388元，价值586元6 8人餐，浓郁甘醇菜品，雅致悠幽之境，一展风华盛貌，引宾入席品真章！",
+        "city": "天津",
+        "list_price": 586,
+        "current_price": 388,
+        "regions": ["河西区"],
+        "categories": ["天津菜"],
+        "purchase_count": 46,
+        "purchase_deadline": "2014-09-29",
+        "publish_date": "2013-11-28",
+        "distance": 372,
+        "image_url": "http://t2.dpfile.com/pc/mc/c0d3687b4897aa520c17c8a4eb050bbf(450x1024)/thumb.jpg",
+        "s_image_url": "http://t3.dpfile.com/pc/mc/c0d3687b4897aa520c17c8a4eb050bbf(450x1024)/thumb_1.jpg",
+        "deal_url": "http://dpurl.cn/p/RkhbJCkCo9",
+        "deal_h5_url": "http://lite.m.dianping.com/AUTwvfbMY7",
+        "commission_ratio": 0.03,
+        "businesses": [
+            {
+                "name": "鹏聚楼大酒店",
+                "id": 2105344,
+                "city": "天津",
+                "latitude": 39.080814,
+                "longitude": 117.201164,
+                "url": "http://dpurl.cn/p/YNEr-A-ubP",
+                "h5_url": "http://lite.m.dianping.com/VOV4L0IvBz"
+            }
+        ]
+    },
+    {
+        "deal_id": "10-2042361",
+        "title": "鹏聚楼大酒店8-10人餐",
+        "description": "鹏聚楼大酒店 仅售568元，价值801元8 10人餐，浓郁甘醇菜品，雅致悠幽之境，一展风华盛貌，引宾入席品真章！",
+        "city": "天津",
+        "list_price": 801,
+        "current_price": 568,
+        "regions": ["河西区"],
+        "categories": ["天津菜"],
+        "purchase_count": 73,
+        "purchase_deadline": "2014-09-29",
+        "publish_date": "2013-11-28",
+        "distance": 372,
+        "image_url": "http://t3.dpfile.com/pc/mc/c31b49126725b2671c3c6e91e884be5c(450x1024)/thumb.jpg",
+        "s_image_url": "http://t3.dpfile.com/pc/mc/c31b49126725b2671c3c6e91e884be5c(450x1024)/thumb_1.jpg",
+        "deal_url": "http://dpurl.cn/p/+xFl0RdbuN",
+        "deal_h5_url": "http://lite.m.dianping.com/auPHkk96JV",
+        "commission_ratio": 0.03,
+        "businesses": [
+            {
+                "name": "鹏聚楼大酒店",
+                "id": 2105344,
+                "city": "天津",
+                "latitude": 39.080814,
+                "longitude": 117.201164,
+                "url": "http://dpurl.cn/p/YNEr-A-ubP",
+                "h5_url": "http://lite.m.dianping.com/VOV4L0IvBz"
+            }
+        ]
+    },
+    {
+        "deal_id": "10-2154104",
+        "title": "至美斋真空酱板筋酱香1袋",
+        "description": "至美斋 仅售22元，价值28元真空酱板筋酱香1袋，优质选材，精心制作，酱香四溢，美味难挡！",
+        "city": "天津",
+        "list_price": 28,
+        "current_price": 22,
+        "regions": ["南开区", "河西区", "河东区", "河北区", "红桥区"],
+        "categories": ["小吃快餐", "新疆/清真"],
+        "purchase_count": 253,
+        "purchase_deadline": "2014-08-31",
+        "publish_date": "2014-02-25",
+        "distance": 376,
+        "image_url": "http://t3.dpfile.com/pc/mc/7876654b5e1b7be095688e5ea38b2513(450x1024)/thumb.jpg",
+        "s_image_url": "http://t2.dpfile.com/pc/mc/7876654b5e1b7be095688e5ea38b2513(450x1024)/thumb_1.jpg",
+        "deal_url": "http://dpurl.cn/p/4OrvNeqqmq",
+        "deal_h5_url": "http://lite.m.dianping.com/LsMiCAKr3-",
+        "commission_ratio": 0.03,
+        "businesses": [
+            {
+                "name": "至美斋(芥园道店)",
+                "id": 566293,
+                "city": "天津",
+                "latitude": 39.146904,
+                "longitude": 117.16369,
+                "url": "http://dpurl.cn/p/s5WY99UWJ2",
+                "h5_url": "http://lite.m.dianping.com/PE195pNEWT"
+            },
+            {
+                "name": "至美斋(二号路店)",
+                "id": 1897711,
+                "city": "天津",
+                "latitude": 39.17527,
+                "longitude": 117.16516,
+                "url": "http://dpurl.cn/p/LQP8ny3GkQ",
+                "h5_url": "http://lite.m.dianping.com/LdLFzWRRUx"
+            },
+            {
+                "name": "至美斋(嘉华店)",
+                "id": 3061450,
+                "city": "天津",
+                "latitude": 39.130154,
+                "longitude": 117.24273,
+                "url": "http://dpurl.cn/p/MKVyq4eNTr",
+                "h5_url": "http://lite.m.dianping.com/5jgPw++UAL"
+            },
+            {
+                "name": "至美斋(华昌店)",
+                "id": 3196714,
+                "city": "天津",
+                "latitude": 39.137554,
+                "longitude": 117.22505,
+                "url": "http://dpurl.cn/p/4zMPjKZHXV",
+                "h5_url": "http://lite.m.dianping.com/uhBR2fPlfB"
+            },
+            {
+                "name": "至美斋(鼓楼店)",
+                "id": 3675685,
+                "city": "天津",
+                "latitude": 39.14093,
+                "longitude": 117.18115,
+                "url": "http://dpurl.cn/p/Ifg5ADYgmM",
+                "h5_url": "http://lite.m.dianping.com/whSmw+VSgV"
+            },
+            {
+                "name": "至美斋(鞍山西道店)",
+                "id": 5187058,
+                "city": "天津",
+                "latitude": 39.114178,
+                "longitude": 117.16952,
+                "url": "http://dpurl.cn/p/u6mQUSK8rn",
+                "h5_url": "http://lite.m.dianping.com/CaiZLMWlxX"
+            },
+            {
+                "name": "至美斋(光荣道店)",
+                "id": 5238927,
+                "city": "天津",
+                "latitude": 39.173576,
+                "longitude": 117.1672,
+                "url": "http://dpurl.cn/p/+Uu1UJZS1d",
+                "h5_url": "http://lite.m.dianping.com/ypdODhYlkD"
+            },
+            {
+                "name": "至美斋(王顶堤店)",
+                "id": 5482702,
+                "city": "天津",
+                "latitude": 39.08919,
+                "longitude": 117.14284,
+                "url": "http://dpurl.cn/p/+RuYedCym+",
+                "h5_url": "http://lite.m.dianping.com/P0WHJxD6Xq"
+            },
+            {
+                "name": "至美斋(天山路店)",
+                "id": 5483819,
+                "city": "天津",
+                "latitude": 39.138664,
+                "longitude": 117.27691,
+                "url": "http://dpurl.cn/p/43u1JWEqiv",
+                "h5_url": "http://lite.m.dianping.com/LAq4MFdauh"
+            },
+            {
+                "name": "至美斋(尖山路店)",
+                "id": 5640477,
+                "city": "天津",
+                "latitude": 39.0883,
+                "longitude": 117.22387,
+                "url": "http://dpurl.cn/p/qwIZNBMuhc",
+                "h5_url": "http://lite.m.dianping.com/HbiYTcwEA+"
+            },
+            {
+                "name": "至美斋(泗水道店)",
+                "id": 5738394,
+                "city": "天津",
+                "latitude": 39.05469,
+                "longitude": 117.2687,
+                "url": "http://dpurl.cn/p/MAH8DB0rL2",
+                "h5_url": "http://lite.m.dianping.com/RpYDR3Jo1e"
+            },
+            {
+                "name": "至美斋(密云路店)",
+                "id": 14884288,
+                "city": "天津",
+                "latitude": 39.12922,
+                "longitude": 117.126205,
+                "url": "http://dpurl.cn/p/eZAO+iraTa",
+                "h5_url": "http://lite.m.dianping.com/yqSRLexpvD"
+            },
+            {
+                "name": "至美斋(宾馆南道店)",
+                "id": 14884472,
+                "city": "天津",
+                "latitude": 39.080772,
+                "longitude": 117.20103,
+                "url": "http://dpurl.cn/p/P8NOZO9ySF",
+                "h5_url": "http://lite.m.dianping.com/FTYr3LdMGk"
+            },
+            {
+                "name": "至美斋(金纬路店)",
+                "id": 17817311,
+                "city": "天津",
+                "latitude": 39.15138,
+                "longitude": 117.20129,
+                "url": "http://dpurl.cn/p/D5pCbgUMo+",
+                "h5_url": "http://lite.m.dianping.com/czjO4qD6Vt"
+            }
+        ]
+    },
+    {
+        "deal_id": "10-6400574",
+        "title": "至美斋代金券",
+        "description": "至美斋 仅售42.5元，价值50元代金券，无需预约，可累计使用！",
+        "city": "天津",
+        "list_price": 50,
+        "current_price": 42.5,
+        "regions": ["南开区", "河西区", "河东区", "河北区", "红桥区", "西青区"],
+        "categories": ["小吃快餐", "新疆/清真"],
+        "purchase_count": 162,
+        "purchase_deadline": "2014-11-01",
+        "publish_date": "2014-08-01",
+        "distance": 376,
+        "image_url": "http://t3.dpfile.com/pc/mc/d2b4f31fe5b378bdf65d3aadbeb0ff8e(640x1024)/thumb.jpg",
+        "s_image_url": "http://t3.dpfile.com/pc/mc/d2b4f31fe5b378bdf65d3aadbeb0ff8e(640x1024)/thumb_1.jpg",
+        "deal_url": "http://dpurl.cn/p/Ax+pwx7lQa",
+        "deal_h5_url": "http://lite.m.dianping.com/PJiB7+bzzH",
+        "commission_ratio": 0.03,
+        "businesses": [
+            {
+                "name": "至美斋(芥园道店)",
+                "id": 566293,
+                "city": "天津",
+                "latitude": 39.146904,
+                "longitude": 117.16369,
+                "url": "http://dpurl.cn/p/s5WY99UWJ2",
+                "h5_url": "http://lite.m.dianping.com/PE195pNEWT"
+            },
+            {
+                "name": "至美斋(二号路店)",
+                "id": 1897711,
+                "city": "天津",
+                "latitude": 39.17527,
+                "longitude": 117.16516,
+                "url": "http://dpurl.cn/p/LQP8ny3GkQ",
+                "h5_url": "http://lite.m.dianping.com/LdLFzWRRUx"
+            },
+            {
+                "name": "至美斋(嘉华店)",
+                "id": 3061450,
+                "city": "天津",
+                "latitude": 39.130154,
+                "longitude": 117.24273,
+                "url": "http://dpurl.cn/p/MKVyq4eNTr",
+                "h5_url": "http://lite.m.dianping.com/5jgPw++UAL"
+            },
+            {
+                "name": "至美斋(华昌店)",
+                "id": 3196714,
+                "city": "天津",
+                "latitude": 39.137554,
+                "longitude": 117.22505,
+                "url": "http://dpurl.cn/p/4zMPjKZHXV",
+                "h5_url": "http://lite.m.dianping.com/uhBR2fPlfB"
+            },
+            {
+                "name": "至美斋(鼓楼店)",
+                "id": 3675685,
+                "city": "天津",
+                "latitude": 39.14093,
+                "longitude": 117.18115,
+                "url": "http://dpurl.cn/p/Ifg5ADYgmM",
+                "h5_url": "http://lite.m.dianping.com/whSmw+VSgV"
+            },
+            {
+                "name": "至美斋(鞍山西道店)",
+                "id": 5187058,
+                "city": "天津",
+                "latitude": 39.114178,
+                "longitude": 117.16952,
+                "url": "http://dpurl.cn/p/u6mQUSK8rn",
+                "h5_url": "http://lite.m.dianping.com/CaiZLMWlxX"
+            },
+            {
+                "name": "至美斋(光荣道店)",
+                "id": 5238927,
+                "city": "天津",
+                "latitude": 39.173576,
+                "longitude": 117.1672,
+                "url": "http://dpurl.cn/p/+Uu1UJZS1d",
+                "h5_url": "http://lite.m.dianping.com/ypdODhYlkD"
+            },
+            {
+                "name": "至美斋(王顶堤店)",
+                "id": 5482702,
+                "city": "天津",
+                "latitude": 39.08919,
+                "longitude": 117.14284,
+                "url": "http://dpurl.cn/p/+RuYedCym+",
+                "h5_url": "http://lite.m.dianping.com/P0WHJxD6Xq"
+            },
+            {
+                "name": "至美斋(天山路店)",
+                "id": 5483819,
+                "city": "天津",
+                "latitude": 39.138664,
+                "longitude": 117.27691,
+                "url": "http://dpurl.cn/p/43u1JWEqiv",
+                "h5_url": "http://lite.m.dianping.com/LAq4MFdauh"
+            },
+            {
+                "name": "至美斋(尖山路店)",
+                "id": 5640477,
+                "city": "天津",
+                "latitude": 39.0883,
+                "longitude": 117.22387,
+                "url": "http://dpurl.cn/p/qwIZNBMuhc",
+                "h5_url": "http://lite.m.dianping.com/HbiYTcwEA+"
+            },
+            {
+                "name": "至美斋(泗水道店)",
+                "id": 5738394,
+                "city": "天津",
+                "latitude": 39.05469,
+                "longitude": 117.2687,
+                "url": "http://dpurl.cn/p/MAH8DB0rL2",
+                "h5_url": "http://lite.m.dianping.com/RpYDR3Jo1e"
+            },
+            {
+                "name": "至美斋(密云路店)",
+                "id": 14884288,
+                "city": "天津",
+                "latitude": 39.12922,
+                "longitude": 117.126205,
+                "url": "http://dpurl.cn/p/eZAO+iraTa",
+                "h5_url": "http://lite.m.dianping.com/yqSRLexpvD"
+            },
+            {
+                "name": "至美斋(宾馆南道店)",
+                "id": 14884472,
+                "city": "天津",
+                "latitude": 39.080772,
+                "longitude": 117.20103,
+                "url": "http://dpurl.cn/p/P8NOZO9ySF",
+                "h5_url": "http://lite.m.dianping.com/FTYr3LdMGk"
+            },
+            {
+                "name": "至美斋(金纬路店)",
+                "id": 17817311,
+                "city": "天津",
+                "latitude": 39.15138,
+                "longitude": 117.20129,
+                "url": "http://dpurl.cn/p/D5pCbgUMo+",
+                "h5_url": "http://lite.m.dianping.com/czjO4qD6Vt"
+            },
+            {
+                "name": "至美斋(迎水道店)",
+                "id": 18220486,
+                "city": "天津",
+                "latitude": 39.08788,
+                "longitude": 117.11843,
+                "url": "http://dpurl.cn/p/qiScOAAQ2S",
+                "h5_url": "http://lite.m.dianping.com/wvNwCPSFsm"
+            }
+        ]
+    },
+    {
+        "deal_id": "10-2179105",
+        "title": "津利华大酒店雅苑餐厅8-10人餐",
+        "description": "津利华大酒店雅苑餐厅 仅售888元，最高价值2452元8 10人餐，环境静逸，服务周到，珍馐美馔，亲朋相聚好去处！",
+        "city": "天津",
+        "list_price": 2452,
+        "current_price": 888,
+        "regions": ["河西区"],
+        "categories": ["粤菜"],
+        "purchase_count": 27,
+        "purchase_deadline": "2014-09-30",
+        "publish_date": "2014-03-01",
+        "distance": 382,
+        "image_url": "http://t2.dpfile.com/pc/mc/5104226322be8d5e0049cc65d44e2c2a(450x1024)/thumb.jpg",
+        "s_image_url": "http://t3.dpfile.com/pc/mc/5104226322be8d5e0049cc65d44e2c2a(450x1024)/thumb_1.jpg",
+        "deal_url": "http://dpurl.cn/p/qTeQKFD7PB",
+        "deal_h5_url": "http://lite.m.dianping.com/EmTHcdrLAX",
+        "commission_ratio": 0.03,
+        "businesses": [
+            {
+                "name": "津利华大酒店雅苑餐厅",
+                "id": 535710,
+                "city": "天津",
+                "latitude": 39.085186,
+                "longitude": 117.205215,
+                "url": "http://dpurl.cn/p/NDNRNQ9qU9",
+                "h5_url": "http://lite.m.dianping.com/TcofVQqojr"
+            }
+        ]
+    },
+    {
+        "deal_id": "10-2178608",
+        "title": "津利华大酒店雅苑餐厅4-6人餐",
+        "description": "津利华大酒店雅苑餐厅 仅售488元，最高价值1226元4 6人餐，环境静逸，服务周到，珍馐美馔，亲朋相聚好去处！",
+        "city": "天津",
+        "list_price": 1226,
+        "current_price": 488,
+        "regions": ["河西区"],
+        "categories": ["粤菜"],
+        "purchase_count": 27,
+        "purchase_deadline": "2014-09-30",
+        "publish_date": "2014-03-01",
+        "distance": 382,
+        "image_url": "http://t2.dpfile.com/pc/mc/eeba2120e53b06bc407850e827702642(450x1024)/thumb.jpg",
+        "s_image_url": "http://t1.dpfile.com/pc/mc/eeba2120e53b06bc407850e827702642(450x1024)/thumb_1.jpg",
+        "deal_url": "http://dpurl.cn/p/ulWIZZfu1J",
+        "deal_h5_url": "http://lite.m.dianping.com/lNwLNuA4jd",
+        "commission_ratio": 0.03,
+        "businesses": [
+            {
+                "name": "津利华大酒店雅苑餐厅",
+                "id": 535710,
+                "city": "天津",
+                "latitude": 39.085186,
+                "longitude": 117.205215,
+                "url": "http://dpurl.cn/p/NDNRNQ9qU9",
+                "h5_url": "http://lite.m.dianping.com/TcofVQqojr"
+            }
+        ]
+    },
+    {
+        "deal_id": "10-2127894",
+        "title": "津利华大酒店雅苑餐厅双人餐",
+        "description": "津利华大酒店雅苑餐厅 仅售188元，价值322元双人餐，提供免费wifi！环境静逸，服务周到，珍馐美馔，亲朋相聚好去处！",
+        "city": "天津",
+        "list_price": 322,
+        "current_price": 188,
+        "regions": ["河西区"],
+        "categories": ["粤菜"],
+        "purchase_count": 4,
+        "purchase_deadline": "2014-12-18",
+        "publish_date": "2014-01-17",
+        "distance": 382,
+        "image_url": "http://t2.dpfile.com/pc/mc/e4755aba5868b50f256cb6944352bbbd(450x1024)/thumb.jpg",
+        "s_image_url": "http://t1.dpfile.com/pc/mc/e4755aba5868b50f256cb6944352bbbd(450x1024)/thumb_1.jpg",
+        "deal_url": "http://dpurl.cn/p/tBVavwZqZg",
+        "deal_h5_url": "http://lite.m.dianping.com/nErjoCBh25",
+        "commission_ratio": 0.03,
+        "businesses": [
+            {
+                "name": "津利华大酒店雅苑餐厅",
+                "id": 535710,
+                "city": "天津",
+                "latitude": 39.085186,
+                "longitude": 117.205215,
+                "url": "http://dpurl.cn/p/NDNRNQ9qU9",
+                "h5_url": "http://lite.m.dianping.com/TcofVQqojr"
+            }
+        ]
+    },
+    {
+        "deal_id": "10-2139351",
+        "title": "津利华大酒店雅苑餐厅4人餐",
+        "description": "津利华大酒店雅苑餐厅 仅售378元，价值754元4人餐，环境静逸，服务周到，珍馐美馔，亲朋相聚好去处！",
+        "city": "天津",
+        "list_price": 754,
+        "current_price": 378,
+        "regions": ["河西区"],
+        "categories": ["粤菜"],
+        "purchase_count": 14,
+        "purchase_deadline": "2014-12-26",
+        "publish_date": "2014-01-24",
+        "distance": 382,
+        "image_url": "http://t2.dpfile.com/pc/mc/a853bafd96cad6d94b3e9a007436da43(450x1024)/thumb.jpg",
+        "s_image_url": "http://t2.dpfile.com/pc/mc/a853bafd96cad6d94b3e9a007436da43(450x1024)/thumb_1.jpg",
+        "deal_url": "http://dpurl.cn/p/B83+N3+Acb",
+        "deal_h5_url": "http://lite.m.dianping.com/4jn+YhmtVW",
+        "commission_ratio": 0.03,
+        "businesses": [
+            {
+                "name": "津利华大酒店雅苑餐厅",
+                "id": 535710,
+                "city": "天津",
+                "latitude": 39.085186,
+                "longitude": 117.205215,
+                "url": "http://dpurl.cn/p/NDNRNQ9qU9",
+                "h5_url": "http://lite.m.dianping.com/TcofVQqojr"
+            }
+        ]
+    }
+]}

@@ -1,0 +1,14 @@
+<ion-view title="DEMO">
+    <ion-nav-buttons side="left">
+        <button menu-toggle="left"class="button button-icon icon ion-navicon"></button>
+    </ion-nav-buttons>
+    <ion-content class="has-header">
+        <ion-list>
+            <ion-item ng-repeat="shop in list" href="#/app/list/{{shop.deal_id}}" class="item item-avatar">
+                <img src="{{shop.s_image_url}}" />
+                <h2>{{shop.title}}</h2>
+                <p class="">价格：{{shop.list_price}}</p>
+            </ion-item>
+        </ion-list>
+    </ion-content>
+</ion-view>
